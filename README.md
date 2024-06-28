@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitguptaa09/) [![Dev.to](https://img.shields.io/badge/-Dev.to-FE7A16?logo=dev.to&logoColor=white)](https://dev.to/amit09)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <!-- Row 1 -->
 <p align="left">
