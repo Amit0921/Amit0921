@@ -15,11 +15,11 @@
 # 💻 Tech Stack:
 
 <!-- Row 1 -->
-<p align="center" style="margin-bottom: 20px;">
-    <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+<p align="left" style="margin-bottom: 20px;">
+    <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" style="margin-right: 100px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60">
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" style="margin-right: 100px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60">
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
@@ -37,7 +37,7 @@
 </p>
 
 <!-- Row 2 -->
-<p align="center" style="margin-bottom: 20px;">
+<p align="left" style="margin-bottom: 20px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60">
     </a>
@@ -59,7 +59,7 @@
 </p>
 
 <!-- Row 3 -->
-<p align="center">
+<p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60">
     </a>
