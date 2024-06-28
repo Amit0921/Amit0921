@@ -15,7 +15,7 @@
 # 💻 Tech Stack:
 
 <!-- Row 1 -->
-<p align="center">
+<p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60">
     </a>
@@ -37,32 +37,32 @@
 </p>
 
 <!-- Row 2 -->
-<p align="center">
+<p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60">
-    </a>
+    </a> <br>
     <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60">
-    </a>
+    </a> <br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
-    </a>
+    </a> <br>
     <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60">
-    </a>
+    </a> <br>
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60">
-    </a>
+    </a> <br>
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60">
-    </a>
+    </a> <br>
 </p>
 
 <!-- Row 3 -->
-<p align="center">
+<p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60">
-    </a>
+    </a> <&nbsp>
     <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60">
     </a>
