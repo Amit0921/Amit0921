@@ -1,16 +1,19 @@
-<h1 align="left">Hi 👋, I'm Amit Gupta</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Amit Gupta</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🔭 I’m currently working on **Improving cloud-based solutions and implementing microservices architecture using Java technology with Spring Boot.**
+- 🔭 I’m currently working on **Improving cloud-based solutions and implementing microservices architecture using Java technology with Spring Boot.**
 
-🌱 I’m currently learning **Microservices and advanced AWS services.**
+- 🌱 I’m currently learning **Microservices and advanced AWS services.**
 
-👯 I’m looking to collaborate on **Spring Boot Projects**
+- 👯 I’m looking to collaborate on **Spring Boot Projects**
 
-⚡ Fun fact **I love exploring mountains and rivers.**
+- 📫 How to reach me **amitguptaa0921@gmail.com**
+
+- ⚡ Fun fact **I love exploring mountains and rivers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/amit09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amit09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amitguptaa09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitguptaa09" height="30" width="40" /></a>
 </p>
 
