@@ -2,9 +2,9 @@
 
  🔭 I’m currently working on **Improving cloud-based solutions and implementing microservices architecture using Java technology with Spring Boot.**
 
- 🌱 I’m currently learning **Microservices and advanced AWS services.**
+ 👨‍💻 I’m currently learning **Microservices and advanced AWS services.**
 
- 👯 I’m looking to collaborate on **Spring Boot Projects**
+ 🤝 I’m looking to collaborate on **Spring Boot Projects**
 
  ⚡ Fun fact **I love exploring mountains and rivers.**
  
