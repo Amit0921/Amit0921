@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitguptaa09/) 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-FE7A16?logo=dev.to&logoColor=white)](https://dev.to/amit09)
-[![x](https://img.shields.io/badge/x-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/amit_gupta_09) 
+[![x.com](https://img.shields.io/badge/x-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/amit_gupta_09) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amit.gupta_09/)
 
 
