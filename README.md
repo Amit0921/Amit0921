@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Amit Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Amit Gupta</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Improving cloud-based solutions and implementing microservices architecture using Java technology with Spring Boot.**
+🔭 I’m currently working on **Improving cloud-based solutions and implementing microservices architecture using Java technology with Spring Boot.**
 
-- 🌱 I’m currently learning **Microservices and advanced AWS services.**
+🌱 I’m currently learning **Microservices and advanced AWS services.**
 
-- 👯 I’m looking to collaborate on **Spring Boot Projects**
+👯 I’m looking to collaborate on **Spring Boot Projects**
 
-- ⚡ Fun fact **I love exploring mountains and rivers.**
+⚡ Fun fact **I love exploring mountains and rivers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
