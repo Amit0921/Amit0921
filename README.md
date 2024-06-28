@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Amit Gupta</h1>
-<hr>
 
  🔭 I’m currently working on **Improving cloud-based solutions and implementing microservices architecture using Java technology with Spring Boot.**
 
@@ -8,15 +7,15 @@
  👯 I’m looking to collaborate on **Spring Boot Projects**
 
  ⚡ Fun fact **I love exploring mountains and rivers.**
-
-<hr>
+ 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitguptaa09/) [![Dev](https://img.shields.io/badge/-dev-FE7A16?logo=dev&logoColor=white)](https://dev.to/amit09)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://dev.to/amit09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amit09" height="30" width="40" /></a>
+ <br>
 <a href="https://linkedin.com/in/amitguptaa09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitguptaa09" height="30" width="40" /></a>
 </p>
 
